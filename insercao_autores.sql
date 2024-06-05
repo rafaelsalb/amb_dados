@@ -1,0 +1,23 @@
+USE biblioteca;
+
+INSERT INTO Autor (id, nome, sobrenome) VALUES (1, 'William', 'Shakespeare');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (2, 'Jane', 'Austen');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (3, 'Virginia', 'Woolf');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (4, 'George', 'Orwell');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (5, 'Ernest', 'Hemingway');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (6, 'Gabriel', 'García Márquez');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (7, 'J.R.R.', 'Tolkien');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (8, 'Agatha', 'Christie');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (9, 'Harper', 'Lee');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (10, 'Franz', 'Kafka');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (11, 'Miguel', 'de Cervantes');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (12, 'Emily', 'Brontë');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (13, 'Arthur Conan', 'Doyle');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (14, 'Aldous', 'Huxley');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (15, 'James', 'Joyce');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (16, 'J.K.', 'Rowling');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (17, 'Charles', 'Dickens');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (18, 'Fyodor', 'Dostoevsky');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (19, 'Mark', 'Twain');
+INSERT INTO Autor (id, nome, sobrenome) VALUES (20, 'Leo', 'Tolstoy');
+SELECT * FROM Autor;
